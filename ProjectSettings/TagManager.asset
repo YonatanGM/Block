@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Block
+  - Lcollider
+  - Rcollider
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Rail
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Trail
+    uniqueID: 4111844971
+    locked: 0
+  - name: Shadow
+    uniqueID: 120649535
+    locked: 0
+  - name: Block
+    uniqueID: 2674103647
+    locked: 0
+  - name: side
+    uniqueID: 687567155
+    locked: 0
+  - name: Rail
+    uniqueID: 2542235303
+    locked: 0
